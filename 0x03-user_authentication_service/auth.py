@@ -11,7 +11,6 @@ from uuid import uuid4
 
 from typing import Union
 
-
 def _hash_password(password: str) -> str:
     """_summary_
 
